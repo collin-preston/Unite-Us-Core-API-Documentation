@@ -6,11 +6,6 @@
         "version": "3",
         "x-copyright": "&copy; 2020 Unite US, Inc. All Rights Reserved."
     },
-    "x-logo": {
-        "url": "https://s3.amazonaws.com/static-public-v3-uudev/assets/app-client/unite-us-logo.png",
-        "backgroundColor": "#FFFFFF",
-        "altText": "Unite Us logo"
-    },
     "servers": [{
         "url": "//localhost:3000/api"
     }],
